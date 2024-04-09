@@ -2,10 +2,10 @@
 
 InitCLI is a command-line tool written in Go that allows you to easily initialize projects for various web and app frameworks.
 
-## Usage
+## Development Usage
 
 ```bash
-initcli <framework> <project-name> [optional-args...]
+go run main.go <framework> <project-name> [optional-args...]
 ```
 
 ### Frameworks and Arguments
